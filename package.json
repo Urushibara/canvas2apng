@@ -1,0 +1,9 @@
+{
+  "name": "@urushibara/canvas2apng",
+  "version": "1.0.0",
+  "description": "Convert HTML canvas to animated PNG",
+  "main": "canvas2apng.js",
+  "type": "module",
+  "author": "akalverboer (original), Urushibara (fork)",
+  "license": "MIT"
+}
