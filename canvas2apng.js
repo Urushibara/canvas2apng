@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ========================================================================     */
 
-function APNGencoder(iCanvas) {
+export function APNGencoder(iCanvas) {
     // Generate APNG byte array from a series of canvas images.
     // See: https://en.wikipedia.org/wiki/APNG
 
