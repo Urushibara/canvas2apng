@@ -543,3 +543,4 @@ function formatCRC32(iVal, iType) {
 }  // formatCRC32
 
 // ===============================================================================
+export default canvas2apng;
